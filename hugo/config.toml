@@ -1,0 +1,31 @@
+baseURL = "http://web.metatab.org/"
+languageCode = "en-us"
+title = "Foobottom"
+theme = "kube"
+publishDir = "../docs"
+
+Paginate = 4
+[Params]
+  RSSLink = "/index.xml"
+  author = "newpixcom" # add your company name
+  github = "" # add your github profile name
+  twitter = "" # add your twitter profile
+  email = "myemail@myaddress.xxx"
+
+
+[[menu.main]]
+    name = "Notebooks"
+    weight = 1
+    url = "/notebooks/"
+[[menu.main]]
+    name = "Docs"
+    weight = 2
+    url = "/docs/"
+[[menu.main]]
+    name = "Blog"
+    weight = 3
+    url = "/blog/"
+[[menu.main]]
+    name = "About"
+    weight = 4
+    url = "/faq/"
