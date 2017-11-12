@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://web.metatab.org/notebooks/example-of-notebook-conversion/</loc>
+    <loc>http://kb.civicknowledge.com/notebooks/example-of-notebook-conversion/</loc>
   </url>
   
   <url>
-    <loc>http://web.metatab.org/categories/</loc>
+    <loc>http://kb.civicknowledge.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://web.metatab.org/company/</loc>
+    <loc>http://kb.civicknowledge.com/company/</loc>
   </url>
   
   <url>
-    <loc>http://web.metatab.org/faq/</loc>
+    <loc>http://kb.civicknowledge.com/faq/</loc>
   </url>
   
   <url>
-    <loc>http://web.metatab.org/notebooks/</loc>
+    <loc>http://kb.civicknowledge.com/notebooks/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://web.metatab.org/password-recovery/</loc>
+    <loc>http://kb.civicknowledge.com/password-recovery/</loc>
   </url>
   
   <url>
-    <loc>http://web.metatab.org/account/</loc>
+    <loc>http://kb.civicknowledge.com/account/</loc>
   </url>
   
   <url>
-    <loc>http://web.metatab.org/</loc>
+    <loc>http://kb.civicknowledge.com/</loc>
   </url>
   
   <url>
-    <loc>http://web.metatab.org/tags/</loc>
+    <loc>http://kb.civicknowledge.com/tags/</loc>
     <priority>0</priority>
   </url>
   

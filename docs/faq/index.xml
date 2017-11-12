@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FAQer on Foobottom</title>
-    <link>http://web.metatab.org/faq/</link>
+    <link>http://kb.civicknowledge.com/faq/</link>
     <description>Recent content in FAQer on Foobottom</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://web.metatab.org/faq/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://kb.civicknowledge.com/faq/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Something about Something on Foobottom</title>
-    <link>http://web.metatab.org/</link>
+    <link>http://kb.civicknowledge.com/</link>
     <description>Recent content in Something about Something on Foobottom</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://web.metatab.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://kb.civicknowledge.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Example Of Notebook Conversion</title>
-      <link>http://web.metatab.org/notebooks/example-of-notebook-conversion/</link>
+      <link>http://kb.civicknowledge.com/notebooks/example-of-notebook-conversion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://web.metatab.org/notebooks/example-of-notebook-conversion/</guid>
+      <guid>http://kb.civicknowledge.com/notebooks/example-of-notebook-conversion/</guid>
       <description>Metatab has it&amp;rsquo;s own Notebook conversion process, will will create a Metatab package with the notebook, it&amp;rsquo;s Makrdown and HTML conversion, and the dataset it creates. FOr these conversions, input code cells are by default hidden and must be explicitly re-enabled by starting code cells with %showinput
 The Notebook can include inline Metatab, in a line-oriented format. These cells are code cells and start with a %%metatab magic.
 %%metatab Identifier: override_this Identifier: this_one_too Identifier: 7108517a-7163-41a5-943d-961f9a086a3f Origin: example.</description>
@@ -23,29 +23,29 @@ The Notebook can include inline Metatab, in a line-oriented format. These cells 
     
     <item>
       <title>Company</title>
-      <link>http://web.metatab.org/company/</link>
+      <link>http://kb.civicknowledge.com/company/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://web.metatab.org/company/</guid>
+      <guid>http://kb.civicknowledge.com/company/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Password Recovery</title>
-      <link>http://web.metatab.org/password-recovery/</link>
+      <link>http://kb.civicknowledge.com/password-recovery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://web.metatab.org/password-recovery/</guid>
+      <guid>http://kb.civicknowledge.com/password-recovery/</guid>
       <description>Your email    Send Back to Log In
  </description>
     </item>
     
     <item>
       <title>Sign In</title>
-      <link>http://web.metatab.org/account/</link>
+      <link>http://kb.civicknowledge.com/account/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://web.metatab.org/account/</guid>
+      <guid>http://kb.civicknowledge.com/account/</guid>
       <description>Email   Password   Log in
 Forgot password?
 If you have any questions about authorization or you&#39;re our customer but haven&#39;t receive your login credentials, just send us a short email at support@company.com and we&#39;ll fix it right away.
