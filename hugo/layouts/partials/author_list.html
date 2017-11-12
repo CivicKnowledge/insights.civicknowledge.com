@@ -1,0 +1,13 @@
+<!-- From: https://discourse.gohugo.io/t/howto-delimiter-separated-tags/146/3 -->
+{{ with .Params.authors }}
+  {{ $len := len . }}
+  {{ if eq $len 1 }}
+    {{ partial "author" (index . 0) }}
+  {{ else }}
+    {{ $last := sub $len 1 }}
+    {{ range first $last . }}
+      {{ partial "author" . }},
+    {{ end }}
+    {{ partial "author" (index . $last) }}
+  {{ end }}
+{{ end }}

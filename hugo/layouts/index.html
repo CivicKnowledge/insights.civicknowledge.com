@@ -17,14 +17,23 @@
     <div class="row gutters">
       {{ range .Data.Pages.ByWeight }}
       {{ if eq .Type "notebooks" }}
-      <div class="col col-4 item">
+      <div class="col col-4 item white-bg-color" 
+       {{ if  .Params.key_image  }}
+       style="background-image: url({{ .Params.key_image}}); background-size: contain;"
+       {{ end }}
+      >
         <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+        <p><small>
+            {{ partial "author_list" . }}, 
+            {{ if .Params.date }}{{ dateFormat "Jan 2, 2006" .Params.date }}{{ end }}
+        </small></p>
         <p>{{ .Params.description }}</p>
       </div>
       {{ end }}
       {{ end }}
     </div>
   </div>
+  
   
 </div>
 </div>

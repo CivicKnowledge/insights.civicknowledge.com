@@ -5,8 +5,13 @@
     <div id="hero">
       <h1> {{ .Title}} </h1>
       <p class="hero-lead">
-           {{ .Params.bref | safeHTML }}.
+           {{ .Params.description | safeHTML }}.
       </p>
+      {{if .Params.github}}
+      <p>
+          <a class="button outline big" href="{{ .Params.github }}" >View Full Notebook on Github</a>
+      </p>
+      {{ end }}
 
     </div> 
     <div id="kube-component" class="content">
