@@ -3,153 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://web.metatab.org/docs/example-of-notebook-conversion/</loc>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/blog/welcome/</loc>
-    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/docs/quick-start/</loc>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/docs/custom-plugins/</loc>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/docs/typography/</loc>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/blog/typography/</loc>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/blog/prototyping/</loc>
-    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/docs/grid/</loc>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/docs/tables/</loc>
-    <lastmod>2017-04-10T16:40:43+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/docs/forms/</loc>
-    <lastmod>2017-04-10T16:40:50+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/docs/buttons/</loc>
-    <lastmod>2017-04-10T16:41:16+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/docs/labels/</loc>
-    <lastmod>2017-04-10T16:40:43+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/blog/messages/</loc>
-    <lastmod>2017-04-10T16:41:34+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/docs/messages/</loc>
-    <lastmod>2017-04-10T16:41:34+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/docs/tabs/</loc>
-    <lastmod>2017-04-10T16:41:40+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/docs/breadcrumbs/</loc>
-    <lastmod>2017-04-10T16:41:54+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/docs/pagination/</loc>
-    <lastmod>2017-04-10T16:42:03+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/docs/dropdown/</loc>
-    <lastmod>2017-04-10T16:42:12+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/docs/modal/</loc>
-    <lastmod>2017-04-10T16:42:18+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/docs/sticky/</loc>
-    <lastmod>2017-04-10T16:42:26+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/blog/collapse/</loc>
-    <lastmod>2017-04-10T16:42:50+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/docs/collapse/</loc>
-    <lastmod>2017-04-10T16:42:50+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/docs/offcanvas/</loc>
-    <lastmod>2017-04-10T16:42:43+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/docs/toggleme/</loc>
-    <lastmod>2017-04-10T16:42:59+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/docs/animation/</loc>
-    <lastmod>2017-04-10T16:43:08+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/docs/colors/</loc>
-    <lastmod>2017-04-10T16:43:14+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/docs/sizing/</loc>
-    <lastmod>2017-04-10T16:43:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/docs/mixins/</loc>
-    <lastmod>2017-04-10T16:43:36+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/docs/utils/</loc>
-    <lastmod>2017-04-10T16:43:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/blog/inline-style/</loc>
-    <lastmod>2017-04-02T21:56:55+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/blog/</loc>
-    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
-    <priority>0</priority>
+    <loc>http://web.metatab.org/notebooks/example-of-notebook-conversion/</loc>
   </url>
   
   <url>
@@ -162,42 +16,11 @@
   </url>
   
   <url>
-    <loc>http://web.metatab.org/categories/design/</loc>
-    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/docs/</loc>
-    <lastmod>2017-04-10T16:40:43+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/tags/example/</loc>
-    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://web.metatab.org/faq/</loc>
   </url>
   
   <url>
-    <loc>http://web.metatab.org/categories/general/</loc>
-    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/tags/hugo/</loc>
-    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://web.metatab.org/tags/markdown/</loc>
-    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+    <loc>http://web.metatab.org/notebooks/</loc>
     <priority>0</priority>
   </url>
   
@@ -206,23 +29,15 @@
   </url>
   
   <url>
-    <loc>http://web.metatab.org/tags/prototype/</loc>
-    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://web.metatab.org/account/</loc>
   </url>
   
   <url>
     <loc>http://web.metatab.org/</loc>
-    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://web.metatab.org/tags/</loc>
-    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   

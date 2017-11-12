@@ -10,23 +10,5 @@
 	<atom:link href="http://web.metatab.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Design</title>
-      <link>http://web.metatab.org/categories/design/</link>
-      <pubDate>Sun, 02 Apr 2017 22:01:15 +0100</pubDate>
-      
-      <guid>http://web.metatab.org/categories/design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>General</title>
-      <link>http://web.metatab.org/categories/general/</link>
-      <pubDate>Thu, 02 Mar 2017 21:56:55 +0100</pubDate>
-      
-      <guid>http://web.metatab.org/categories/general/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

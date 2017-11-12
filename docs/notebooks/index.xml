@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notebooks on Foobottom</title>
+    <link>http://web.metatab.org/notebooks/</link>
+    <description>Recent content in Notebooks on Foobottom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://web.metatab.org/notebooks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Example Of Notebook Conversion</title>
+      <link>http://web.metatab.org/notebooks/example-of-notebook-conversion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://web.metatab.org/notebooks/example-of-notebook-conversion/</guid>
+      <description>Metatab has it&amp;rsquo;s own Notebook conversion process, will will create a Metatab package with the notebook, it&amp;rsquo;s Makrdown and HTML conversion, and the dataset it creates. FOr these conversions, input code cells are by default hidden and must be explicitly re-enabled by starting code cells with %showinput
+The Notebook can include inline Metatab, in a line-oriented format. These cells are code cells and start with a %%metatab magic.
+%%metatab Identifier: override_this Identifier: this_one_too Identifier: 7108517a-7163-41a5-943d-961f9a086a3f Origin: example.</description>
+    </item>
+    
+  </channel>
+</rss>
