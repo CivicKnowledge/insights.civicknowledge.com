@@ -7,8 +7,16 @@
   </url>
   
   <url>
+    <loc>http://kb.civicknowledge.com/notebooks/san-diego-police-calls-for-service/</loc>
+  </url>
+  
+  <url>
     <loc>http://kb.civicknowledge.com/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kb.civicknowledge.com/</loc>
   </url>
   
   <url>
@@ -30,10 +38,6 @@
   
   <url>
     <loc>http://kb.civicknowledge.com/account/</loc>
-  </url>
-  
-  <url>
-    <loc>http://kb.civicknowledge.com/</loc>
   </url>
   
   <url>

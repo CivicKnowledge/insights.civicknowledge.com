@@ -21,5 +21,16 @@ The Notebook can include inline Metatab, in a line-oriented format. These cells 
 %%metatab Identifier: override_this Identifier: this_one_too Identifier: 7108517a-7163-41a5-943d-961f9a086a3f Origin: example.</description>
     </item>
     
+    <item>
+      <title> San Diego Police Calls For Service</title>
+      <link>http://kb.civicknowledge.com/notebooks/san-diego-police-calls-for-service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kb.civicknowledge.com/notebooks/san-diego-police-calls-for-service/</guid>
+      <description>Eric Busboom, 7 Nov 2017
+In preparation for the SCALE and Open San Diego Crime ANalysis Presentation, I downloaded the data package for the presentation and started on the analysis a bit early.
+The presentation will use the San Diego Police 2015 calls for service, but the data repository has 2016 and 2017 as well. The seperate files for each of the three years are converted into a data package on our repository, and I also created Metapack packages for the boundary files for beats, neighborhoods and districts.</description>
+    </item>
+    
   </channel>
 </rss>

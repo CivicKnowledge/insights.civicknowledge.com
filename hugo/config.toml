@@ -14,18 +14,18 @@ Paginate = 4
 
 
 [[menu.main]]
-    name = "Notebooks"
+    name = "Analysis"
     weight = 1
-    url = "/notebooks/"
-[[menu.main]]
-    name = "Docs"
-    weight = 2
-    url = "/docs/"
-[[menu.main]]
-    name = "Blog"
-    weight = 3
-    url = "/blog/"
-[[menu.main]]
-    name = "About"
-    weight = 4
-    url = "/faq/"
+    url = "/analysis/"
+#[[menu.main]]
+#    name = "Docs"
+#    weight = 2
+#    url = "/docs/"
+#[[menu.main]]
+#    name = "Blog"
+#    weight = 3
+#    url = "/blog/"
+#[[menu.main]]
+#    name = "About"
+#    weight = 4
+#    url = "/faq/"

@@ -1,8 +1,7 @@
 +++
-description = "Ok, this is the first page description stuff"
-title = "Something about Something"
+description = "Jupyter Notebooks and Tutorials on Using Public Data"
+title = "Civic Knowledge Base"
 draft = false
 
 +++
 
-THis is in the body o the page. 
