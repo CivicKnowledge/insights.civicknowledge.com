@@ -54,6 +54,8 @@ def plot_heat_grid_community(df,  title='', communities=None):
 
     fig.set_size_inches(ncols*3,nrows*3)
     
+    name_map = df[['community','name']].set_index('community').to_dict()['name']
+    
     axes = axes.ravel() # Convert 2D array to 1D
     plt.tight_layout(h_pad=1)
     for i, community in enumerate(communities):
@@ -68,6 +70,6 @@ def plot_heat_grid_community(df,  title='', communities=None):
             # matplotlib expects. This probably only works b/c the
             # hours and days of week are 1-based indexes. 
             axes[i].pcolormesh(np.array(hgcounts.T),cmap=cmap)
-            axes[i].set_title(community)
-            
+            axes[i].set_title(name_map.get(community))
+                             
     fig.suptitle(title, fontsize=18)
