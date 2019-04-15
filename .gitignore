@@ -3,4 +3,4 @@ _site
 .jekyll-metadata
 .ipynb_checkpoints
 
-.DS_Cache
+.DS_Store
